@@ -4,7 +4,7 @@
 
 By Maulik Vadodariya
 
-## [Link to the live Project](https://developer-landing-page.netlify.app/)
+## [Link to the live Project](https://developer-landing-web.netlify.app/)
 
 ![Completed Website](./readme-images/ScreenShot-20221111202611.png)
 
