@@ -1,6 +1,6 @@
 # HTML ![](./readme-images/html-5-img.png) and CSS ![](./readme-images/css-3-img.png)
 
-# Project 8 - Developer Landing Page ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+# Project 9 - Developer Landing Page ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
 By Maulik Vadodariya
 
